@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey, I'm Alex Lazar 👋
 
-<!--
-**alexlazar123/alexlazar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Web Developer & Computer Science Student**  
+Currently applying for university programs in Computer Science / Software Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a 19-year-old self-taught developer based in the UK. I started my coding journey in **December 2025** and have been passionately learning web development ever since.
+
+I recently completed **freeCodeCamp's**  **Responsive Web Design** Course, covering:
+- The Full **HTML** Course
+- The Full **Computers** Course
+- **CSS**
+- Basic **JavaScript** (in a different course)
+
+I'm excited to continue building my skills and pursue a formal education in Computer Science.
+
+---
+
+### What I'm Currently Learning & Working With 🔧
+
+**Frontend Development:**
+- HTML
+- CSS
+- JavaScript
+
+**Currently Exploring:**
+- Advanced JavaScript (DOM manipulation, APIs)
+- Version Control with Git & GitHub
+- Responsive & modern web design
+- Harvard CS50 Course
+
+---
+
+### What I'm Building 🚀
+- Personal portfolio website
+- Interactive web projects using HTML, CSS & JavaScript
+- Actively strengthening knowledge and skills in preparation for higher education
+
+---
+
+### Goals ✨
+- Get accepted into a strong **Computer Science** program
+- Contribute to open source projects
+- Build real-world applications that solve problems
+- Keep learning every single day
+
+---
+
+### Connect
+- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+> "The only way to learn to code is by coding."  
+
+
+---
+
+*Last updated: April 2026*

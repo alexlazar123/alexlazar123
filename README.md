@@ -6,7 +6,7 @@ Currently applying for university programs in Computer Science / Software Engine
 ---
 
 ### About Me
-I'm a 19-year-old self-taught developer based in the UK. I started my coding journey in **December 2025** and have been passionately learning web development ever since.I enjoy
+I'm a 19-year-old self-taught developer based in the UK. I started my coding journey in **December 2025** and have been passionately learning web development ever since. I enjoy
 building projects in Visual Studio Code.
 
 I recently completed **freeCodeCamp's**  **Responsive Web Design** Course, covering:

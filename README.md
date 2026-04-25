@@ -39,9 +39,9 @@ I'm excited to continue building my skills and pursue a formal education in Comp
 - Interactive web projects using HTML, CSS & JavaScript
 - Actively strengthening knowledge and skills in preparation for higher education
   
-- Modern To Do List: https://github.com/alexlazar123/Modern-To-Do-List
-- Web Calculator: https://github.com/alexlazar123/Calculator
-- Password Generator: https://github.com/alexlazar123/Password-Generator
+- Modern To Do List: https://github.com/alexlazar123/modern-to-do-list
+- Web Calculator: https://github.com/alexlazar123/calculator
+- Password Generator: https://github.com/alexlazar123/password-generator
 
 ---
 

@@ -49,8 +49,6 @@ I'm excited to continue building my skills and pursue a formal education in Comp
 
 ---
 
----
-
 > "The only way to learn to code is by coding."  
 
 

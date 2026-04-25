@@ -49,15 +49,8 @@ I'm excited to continue building my skills and pursue a formal education in Comp
 
 ---
 
-### Connect
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 > "The only way to learn to code is by coding."  
 
 
----
-
-*Last updated: April 2026*
